@@ -2,10 +2,7 @@
 
 - Here are my stats:
 <br>
-[![TechStreets's Github Stats](https://github-readme-stats.vercel.app/api?username=RedCommand-dev&show_icons=true&theme=github_dark)
+[![RedCommand-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCommand-dev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most used Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedCommand-dev&theme=github_dark)]
-<br>
-Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedCommand-dev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
