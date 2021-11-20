@@ -8,4 +8,3 @@ Here are my stats and pinned projects: <br/>
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=RedCommand-dev&repo=Potato&theme=github_dark)](https://github.com/RedCommand-dev/Potato)
 <br/>
 <br/>
-*I forked a potato*
