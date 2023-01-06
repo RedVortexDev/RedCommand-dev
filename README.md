@@ -7,7 +7,7 @@
      |  |                 |  |  |     | -==----'|      |
      |  |  C:\> hi.bat    |  |  |     |         |      |
      |  |  Hi! I'm Red!   |  |  |/----|`---=    |      |
-     |  |  HTML,CSS,JS,PY |  |  |   ,/|==== ooo |      ;
+     |  |  JAVA,JS,PY     |  |  |   ,/|==== ooo |      ;
      |  |  C:\>_          |  |  |  // |(((( [33]|    ,"
      |  `-----------------'  |," .;'| |((((     |  ,"
      +-----------------------+  ;;  | |         |,"     
@@ -21,5 +21,6 @@
 ASCII Art by Kevin Lam from [asciiart.eu](https://www.asciiart.eu)
 <br/>
 Discord: RedCommand#5228
+Working on: [Starlight Dashboard](https://starlightbot.online)
 <br/>
 <br/>
