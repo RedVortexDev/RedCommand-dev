@@ -16,7 +16,7 @@
     \|_______|\|_______|\|__|     \|__|\|__|     \|__|\|__|\|__|\|__| \|__|\|_______|          
      - Your good ol' red pal here to code stuff no one asked for
 ```
-ASCII Art from [Patrick Gillespie's site]([https://www.asciiart.eu](http://patorjk.com/software/taag/))
+ASCII Art from [Patrick Gillespie's site](http://patorjk.com/software/taag/))
 <br/>
 Discord: RedCommand#5228
 Working on: [Starlight Dashboard](https://starlightbot.online)
